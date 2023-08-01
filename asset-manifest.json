@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/css/main.a6b1ddde.chunk.css",
+    "main.js": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/js/main.36dba1e4.chunk.js",
+    "main.js.map": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/js/main.36dba1e4.chunk.js.map",
+    "runtime-main.js": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/js/runtime-main.311dc910.js",
+    "runtime-main.js.map": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/js/runtime-main.311dc910.js.map",
+    "static/js/2.17ce13f9.chunk.js": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/js/2.17ce13f9.chunk.js",
+    "static/js/2.17ce13f9.chunk.js.map": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/js/2.17ce13f9.chunk.js.map",
+    "index.html": "https://sanjay-gugan-r.github.io/csb-pogfi1/index.html",
+    "static/css/main.a6b1ddde.chunk.css.map": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/css/main.a6b1ddde.chunk.css.map",
+    "static/js/2.17ce13f9.chunk.js.LICENSE.txt": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/js/2.17ce13f9.chunk.js.LICENSE.txt",
+    "static/media/FarmRetreat.jpg": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/FarmRetreat.efc6f360.jpg",
+    "static/media/Menu.jpg": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/Menu.ab6b29fe.jpg",
+    "static/media/bangalore.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/bangalore.17fc23c9.jfif",
+    "static/media/chennai1.jpg": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/chennai1.c4f9cb54.jpg",
+    "static/media/google.png": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/google.c5d29279.png",
+    "static/media/instagram.png": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/instagram.4289378e.png",
+    "static/media/mumbai.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/mumbai.2ce24b4f.jfif",
+    "static/media/restaurant2.jpg": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/restaurant2.c378a29f.jpg",
+    "static/media/satay.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/satay.b70a396f.jfif",
+    "static/media/srilanka1.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/srilanka1.3425ede0.jfif",
+    "static/media/srilanka2.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/srilanka2.14ba8639.jfif",
+    "static/media/srilanka3.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/srilanka3.f0c54998.jfif",
+    "static/media/us1.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/us1.0160468c.jfif",
+    "static/media/us2.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/us2.45016494.jfif",
+    "static/media/us3.jfif": "https://sanjay-gugan-r.github.io/csb-pogfi1/static/media/us3.9a8784f3.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.311dc910.js",
+    "static/js/2.17ce13f9.chunk.js",
+    "static/css/main.a6b1ddde.chunk.css",
+    "static/js/main.36dba1e4.chunk.js"
+  ]
+}
